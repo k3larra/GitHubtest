@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 public class ListTestActivity extends Activity {
     /** Called when the activity is first created. */
+	//sfsf
+	///sfsfsf
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
